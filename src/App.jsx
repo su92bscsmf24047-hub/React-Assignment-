@@ -5,7 +5,7 @@ import StudentList from "./components/StudentList.jsx";
 function App() {
   return (
     <div className="app">
-      <h1 className="app-title">React Assignment</h1>
+      <h1 className="app-title">class Task </h1>
 
       {/* Task 1: Reusable component with props */}
       <section className="section">
