@@ -16,13 +16,13 @@ function App() {
         </div>
       </section>
 
-      {/* Task 2: useState + event handling */}
+      
       <section className="section">
         <h2>Task 2: LikeButton (useState)</h2>
         <LikeButton />
       </section>
 
-      {/* Task 3: List + conditional rendering */}
+    
       <section className="section">
         <h2>Task 3: Student Results</h2>
         <StudentList />
